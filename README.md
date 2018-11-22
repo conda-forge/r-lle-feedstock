@@ -14,9 +14,8 @@ Summary: LLE is a non-linear algorithm for mapping high-dimensional data into a 
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-lle-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-lle-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-lle-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-lle-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-lle-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-lle-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-lle-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-lle-feedstock)
 
 Current release info
 ====================

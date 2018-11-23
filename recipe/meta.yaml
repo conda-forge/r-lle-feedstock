@@ -16,18 +16,17 @@ source:
 
 build:
   noarch: generic
-  number: 1001
+  number: 1002
   rpaths:
     - lib/R/lib/
     - lib/
 
 requirements:
-  build:
+  hsot:
     - r-base
     - r-mass
     - r-scatterplot3d
     - r-snowfall
-
   run:
     - r-base
     - r-mass

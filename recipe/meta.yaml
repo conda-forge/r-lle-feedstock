@@ -22,7 +22,7 @@ build:
     - lib/
 
 requirements:
-  hsot:
+  host:
     - r-base
     - r-mass
     - r-scatterplot3d

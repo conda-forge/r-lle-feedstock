@@ -1,11 +1,11 @@
-About r-lle
-===========
+About r-lle-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lle-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=lle
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lle-feedstock/blob/main/LICENSE.txt)
 
 Summary: LLE is a non-linear algorithm for mapping high-dimensional data into a lower dimensional (intrinsic) space. This package provides the main functions to performs the LLE alogrithm including some enhancements like subset selection, calculation of the intrinsic dimension etc.
 
